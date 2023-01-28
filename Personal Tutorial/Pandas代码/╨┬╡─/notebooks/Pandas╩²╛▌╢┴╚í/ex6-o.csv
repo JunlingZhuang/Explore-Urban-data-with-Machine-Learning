@@ -1,1 +1,3 @@
-obj = """{"name": "Wes", "place_lived": ["United States", "Spain", "Germany"],"pet": null,"siblings": [{"name": "Scott", "age": 25, "pet": "Zuko"}, {"name": "Wei", "age": 25, "pet": "Cisco"}]}"""
+version https://git-lfs.github.com/spec/v1
+oid sha256:b67a4db12ebec254ce00c8e9af2309d6b069abee619a86ffa9a51dfb3df92a95
+size 202
